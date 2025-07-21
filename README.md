@@ -87,6 +87,7 @@ The final summary is printed in the console or shown through a GUI if implemente
 
 
 **Learnings**
+
 Through this task, I gained practical exposure to real-world NLP workflows. I learned how to preprocess and manipulate text data, extract meaningful insights from natural language, and implement intelligent summarization logic using simple yet effective techniques. This laid the foundation for more advanced NLP projects such as abstractive summarization, question-answering systems, and text classification.
 
 
