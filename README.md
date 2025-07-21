@@ -91,5 +91,5 @@ Through this task, I gained practical exposure to real-world NLP workflows. I le
 
 
 **Output**
-
+<img width="1918" height="862" alt="Image" src="https://github.com/user-attachments/assets/9d4c5987-0690-4edc-9e79-68f3180f7b5f" />
 
